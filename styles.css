@@ -1,0 +1,9 @@
+@import url("stuyles/header.css");
+@import url("stuyles/banner.css");
+@import url("stuyles/projetos.css");
+@import url("stuyles/topicos.css");
+@import url("stuyles/contato.css");
+@import url("stuylesrodape.css");
+
+:root {
+    --cor-de-fundo: #ebecee
